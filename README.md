@@ -1,4 +1,4 @@
-# Sentiment Analysis with Aspect-Based Sentiment Analysis (ABSA)
+# Aspect-Based Sentiment Analysis (ABSA) with IMDB Movie Review
 
 ## Introduction
 This project performs sentiment analysis on movie reviews using different models and techniques. It includes experiments in text classification with unigrams, bigrams, and aspect-based sentiment analysis using a Bi-GRU model.
