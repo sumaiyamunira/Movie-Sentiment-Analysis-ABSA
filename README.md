@@ -9,10 +9,12 @@ The dataset used is the IMDB movie review dataset from Stanford, which consists 
 ## Setup
 ### Environment Setup
 Ensure you have Python 3.x installed along with the necessary libraries listed in `requirements.txt`. You can install them using pip:
-  pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 ### Dataset Setup
 The dataset will be downloaded automatically upon running the scripts if it's not already available locally. The dataset includes training, validation, and test sets.
+
 
 # Experiments
 
