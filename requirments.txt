@@ -1,0 +1,7 @@
+numpy
+pandas
+nltk
+tensorflow
+keras
+pywsd
+wget
